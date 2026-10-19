@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/git-pushers-team-project/",
+    "build": "vite build --base=/Organic-Shop_teamProject/",
     "preview": "vite preview"
   },
   "devDependencies": {
